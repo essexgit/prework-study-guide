@@ -14,8 +14,6 @@ The project runs in any web browser.
 
 There is a random JavaScript test generated in the consol, use ctrl + c or ctrl + i to bring up console and developer tool. Refresh the page to change the text message.
 
-![finished webpage showing Front End Prework guide](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
